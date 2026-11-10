@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "tea-estate-management-system",
+  "description": "Tea Estate Management System — Agriculture Laravel Filament ERP/SaaS for Bangladesh (Sylhet). Tea estate system for plucking records, factory withering/rolling, grade lots, and auction sales. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "agriculture",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/tea-estate-management-system"
+}
